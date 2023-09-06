@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": false,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "ES2021", 
+    "lib": [
+      "es2021", 
+      "DOM" 
+    ],
+  },
+  "include": ["index.ts"],
+  "exclude": [],
+}
