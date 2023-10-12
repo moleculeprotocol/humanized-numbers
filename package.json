@@ -1,8 +1,9 @@
 {
   "name": "@moleculexyz/humanized-numbers",
   "description": "display numbers (and bigints) in a more human way",
+  "repository": "moleculeprotocol/humanized-numbers",
   "keywords": [],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "type": "module",
   "main": "./dist/cjs/index.js",
